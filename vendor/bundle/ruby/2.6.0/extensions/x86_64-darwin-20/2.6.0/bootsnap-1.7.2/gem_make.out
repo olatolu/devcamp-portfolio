@@ -1,0 +1,15 @@
+current directory: /Users/oluolat/Rorcode/devcampPortfolio/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+/Users/oluolat/.rbenv/versions/2.6.3/bin/ruby -I /Users/oluolat/.rbenv/versions/2.6.3/lib/ruby/site_ruby/2.6.0 -r ./siteconf20210227-54429-10nyo14.rb extconf.rb
+creating Makefile
+
+current directory: /Users/oluolat/Rorcode/devcampPortfolio/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /Users/oluolat/Rorcode/devcampPortfolio/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/oluolat/Rorcode/devcampPortfolio/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.7.2/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20210227-54429-nskvzy/bootsnap
